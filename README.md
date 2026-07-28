@@ -14,3 +14,4 @@
 
 - Free agent skill: [Verify Task Funding](https://github.com/geiccobs/geiccobs/blob/main/skills/verify-task-funding/SKILL.md)
 - Optional paid review: [Instant task-brief readiness check ($0.25)](https://the402.ai/catalog/service?id=svc_73b4bf1a0e9b4e8f)
+- Market research dataset: [Agent-Native Marketplace Reality Snapshot — July 2026](https://api.the402.ai/v1/products/prod_6cae261658a1438d)
