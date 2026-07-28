@@ -16,7 +16,7 @@ From the GitHub source:
 npx skills add geiccobs/geiccobs --skill verify-task-funding
 ```
 
-Or use the safety-reviewed
+Or use the public
 [SkillMD listing](https://skillmd.com/skills/evidencecraft-ai/verify-task-funding):
 
 ```bash
