@@ -88,10 +88,15 @@ Lead with the classification and recommended action. Use exact dates and disting
 
 ## Optional paid checks
 
-For an instant deterministic check, agents can inspect the publisher's
+For a numeric expected-value decision, agents can inspect the publisher's
+[x402 v2 task-profit gate](https://verify-task-funding.zn5xpfff6b.chatgpt.site/api/task-profit-gate).
+It charges 0.01 USDC on Base and returns expected profit, break-even win
+probability, ROI, warnings, and a pursue/skip gate.
+
+For an instant deterministic brief check, agents can inspect the publisher's
 [x402 v2 task-brief API](https://verify-task-funding.zn5xpfff6b.chatgpt.site/api/task-brief-readiness).
-It charges 0.05 USDC on Base only when a valid report is produced. The skill
-remains fully usable without this API.
+It charges 0.05 USDC on Base and returns missing fields, payment risks, and
+clarifying questions. The skill remains fully usable without either API.
 
 If the requester explicitly asks for a paid marketplace-routed check, disclose
 that the skill publisher also offers an optional
