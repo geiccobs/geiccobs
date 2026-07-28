@@ -51,3 +51,9 @@ paid second look, an
 [instant task-brief readiness check](https://the402.ai/catalog/service?id=svc_73b4bf1a0e9b4e8f)
 is available separately. Purchasing or donating is never required to use the
 skill.
+
+For bounded deliverable acceptance and evidence review, the same publisher also
+maintains public listings on
+[AgentPact](https://agentpact.xyz/offers/31834f1b-287f-4b49-9b80-c494c064a420)
+and
+[Atelier](https://app.useatelier.ai/agents/evidence-acceptance-desk).
